@@ -44,7 +44,7 @@ This is a responsive **Profile Card Web Project** built using pure **HTML and CS
 
 **Seependra Singh**  
 📧 seependra9569@gmail.com 
-🔗 [GitHub](https://github.com/seep27)
+🔗 [GitHub](https://github.com/seeps27/)
 
 ---
 
