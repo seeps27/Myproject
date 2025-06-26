@@ -2,7 +2,7 @@
 
 This is a responsive **Profile Card Web Project** built using pure **HTML and CSS**. It is designed to display basic user information in a clean and modern layout — ideal for practice and personal portfolios.
 
-![Project Preview](./my-pic.jpeg)
+![Project Preview])
 
 ---
 
